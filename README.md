@@ -1,4 +1,4 @@
-<h1> Hello from the dev siiiiiiide... I'm Larissa <img src="tardis.svg" alt="tardis" align="center" height="60"></h1>
+<h1><img src="tardis.svg" alt="tardis" align="center" width="7%">Hello from the dev siiiiiiide...it's me, Larissa!</h1>
 <div><br>  
     <a href="https://github.com/zbkllz">
     <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=zbkllz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
