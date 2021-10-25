@@ -18,7 +18,7 @@
         <img align="center" alt="Node.js" height="36" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
         <!--<img align="center" alt="Docker" height="31" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">-->
         <img align="center" alt="Git" height="34" width="40"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-        <img align="center" alt="Sass" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+        <img align="center" alt="Sass" height="42" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
         <!--<img align="center" alt="Jquery" height="31" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">-->
         <!--<img align="center" alt="Babel.js" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg">-->
         <!--<img align="center" alt="C" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">-->
