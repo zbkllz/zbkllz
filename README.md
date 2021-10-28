@@ -2,6 +2,7 @@
 <div><br>  
     <a href="https://github.com/zbkllz">
     <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=zbkllz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbkllz&layout=compact&langs_count=7&theme=dracula"/>
     <img align="right" alt="laros" src="https://i.picasion.com/pic91/e1e57d8efef3e4be616972f3d6aa6606.gif" width="125" height="125" border="0" alt="https://picasion.com/" align="center"/>     
         </br>
     <div style="display: inline_block"><br>
