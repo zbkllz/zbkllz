@@ -1,10 +1,13 @@
 <h1><img src="tardis.svg" alt="tardis" align="center" width="7%">Hello from the dev siiiiiiide...!</h1>
 <div><br>  
     <a href="https://github.com/zbkllz">
-    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=zbkllz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbkllz&layout=compact&langs_count=7&theme=dracula"/>-->
-    <img align="right" alt="laros" src="https://i.picasion.com/pic91/e1e57d8efef3e4be616972f3d6aa6606.gif" width="125" height="125" border="0" alt="https://picasion.com/" align="center"/>     
-        </br>
+<!--     <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=zbkllz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbkllz&layout=compact&langs_count=7&theme=dracula"/>
+<!-- <div> -->
+    <img align="right" alt="laros" src="https://i.picasion.com/pic91/e1e57d8efef3e4be616972f3d6aa6606.gif" width="125" height="125" border="0" alt="https://picasion.com/" align="center"/>    
+
+  <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif"/>
+<!--         </br>
     <div style="display: inline_block"><br>
         <img align="center" alt="HTML" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
         <img align="center" alt="CSS" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
@@ -53,10 +56,9 @@
         <img align="center" alt="Socket.io" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg">
         <img align="center" alt="Express" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
         </br>
-    
 </div>  
-        <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif"/>
+        <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif"/> 
       
-   ![Snake animation](https://github.com/zbkllz/zbkllz/blob/output/github-contribution-grid-snake.svg)
+<!--    ![Snake animation](https://github.com/zbkllz/zbkllz/blob/output/github-contribution-grid-snake.svg) -->
     
  </div>  
