@@ -7,7 +7,7 @@
     <img align="right" alt="laros" src="https://i.picasion.com/pic91/e1e57d8efef3e4be616972f3d6aa6606.gif" width="125" height="125" border="0" alt="https://picasion.com/" align="center"/>    
 
   <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif"/>
-<!--         </br>
+       </br>
     <div style="display: inline_block"><br>
         <img align="center" alt="HTML" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
         <img align="center" alt="CSS" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
