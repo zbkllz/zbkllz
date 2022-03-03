@@ -39,12 +39,12 @@
         <!--<img align="center" alt="Webpack" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg">-->
         <img align="center" alt="VSdoAmor" height="35" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
         <!--<img align="center" alt="Firebase" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">-->
-        <img align="center" alt="GitLab" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
+<!--         <img align="center" alt="GitLab" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"> -->
         <!--<img align="center" alt="IntelliJ" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">-->
-        <img align="center" alt="Insomnia" height="35" width="40" src="https://cms-react-testing.cdn.prismic.io/cms-react-testing/fd794b96-f464-432b-b79a-bf99341b2143_insomnia-logo-bug.svg">
+<!--         <img align="center" alt="Insomnia" height="35" width="40" src="https://cms-react-testing.cdn.prismic.io/cms-react-testing/fd794b96-f464-432b-b79a-bf99341b2143_insomnia-logo-bug.svg"> -->
         <!--<img align="center" alt="Java" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">-->
         <!--<img align="center" alt="Angular" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">-->
-        <img align="center" alt="JiraSoftware" height="40" width="40" src="https://fd-assets.prod.atl-paas.net/images/logos/jira-software/jira-software-white.svg">
+<!--         <img align="center" alt="JiraSoftware" height="40" width="40" src="https://fd-assets.prod.atl-paas.net/images/logos/jira-software/jira-software-white.svg"> -->
          <!--<img align="center" alt="MaterialUI" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">-->
         <!--<img align="center" alt="BootstrapBillTurner" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">-->
         <!--<img align="center" alt="Canva" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">-->
