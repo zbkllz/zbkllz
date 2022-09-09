@@ -17,14 +17,14 @@
             <img align="center" alt="Android" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
             <img align="center" alt="React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
             <img align="center" alt="TSC" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-                <img align="center" alt="Node" height="36" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+<!--                 <img align="center" alt="Node" height="36" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> -->
             <img align="center" alt="Git" height="34" width="40"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-            <img align="center" alt="Sass" height="42" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+<!--            <img align="center" alt="Sass" height="42" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"> -->
             <img align="center" alt="Yarn" height="34" width="40" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg">
 <!--             <img align="center" alt="Webpack" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg"> -->
             <img align="center" alt="VSdoAmor" height="35" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
             <img align="center" alt="GitLab" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
-            <img align="center" alt="IntelliJ" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
+<!--         <img align="center" alt="IntelliJ" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"> -->
             <img align="center" alt="JiraSoftware" height="40" width="40" src="https://fd-assets.prod.atl-paas.net/images/logos/jira-software/jira-software-white.svg">
     <!-- interesses-->
 <!--             <img align="center" alt="Docker" height="31" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"> -->
