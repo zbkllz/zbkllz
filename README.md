@@ -10,7 +10,7 @@
      <img align="center" alt="Laros-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="Laros-TSC" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
      <img align="center" alt="Laros-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-     <img align="center" alt="Laros-Bash" height="40" width="40"  src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/bash.svg">
+<!--      <img align="center" alt="Laros-Bash" height="40" width="40"  src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/bash.svg"> -->
      <img align="center" alt="Laros-Git" height="40" width="40"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
      <img align="center" alt="Laros-GitLab" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
      <img align="center" alt="Laros-Jira" height="45" width="45" src="https://fd-assets.prod.atl-paas.net/images/logos/jira-software/jira-software-white.svg">
