@@ -1,4 +1,4 @@
-<h1 align="center"><img src="tardis.svg" alt="tardis" align="center" width="7%"/>"How do you do, fellow kids?!"</h1>
+<h1 align="center"><img src="tardis.svg" alt="tardis" align="center" width="7%"/>"Welcome to my crib!"</h1>
      <a href="https://github.com/zbkllz">
 <!--     <img align="right" alt="laros" src="https://i.picasion.com/pic91/e1e57d8efef3e4be616972f3d6aa6606.gif" width="100" height="100" border="0" alt="https://picasion.com/" align="center"/> -->
 
@@ -17,7 +17,7 @@
      <img align="center" alt="Laros-IntelliJ" height="45" width="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/ides/intellij.svg">
      <img align="center" alt="Laros-Studio" height="40" width="40"  src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/ides/android-studio.svg">
       <img align="center" alt="Laros-VSC" height="40" width="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/text%20editors/vscode.svg"> 
-     <img align="center" alt="Laros-Firebase" height="45" width="45"  src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/firebase.svg"> 
+<!--      <img align="center" alt="Laros-Firebase" height="45" width="45"  src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/firebase.svg">  -->
      
 
   <div align="center"> 
