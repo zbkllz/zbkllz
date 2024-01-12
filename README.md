@@ -5,7 +5,7 @@
 
 <div align="center">
 
-### Android Developer
+### Android Developer 👩‍💻
 <div>
      <img align="center" alt="Laros-Android" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
      <img align="center" alt="Laros-Kotlin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
