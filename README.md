@@ -19,9 +19,7 @@
 <div> 
    <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbkllz&theme=transparent&layout=compact&hide_border=true" />
 </div> 
-
-<div align="center">
-     ![Snake animation](https://github.com/zbkllz/zbkllz/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-</div>
+
+
