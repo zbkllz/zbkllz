@@ -7,7 +7,7 @@
 
 #### Android Developer 👩‍💻
 
-#### Currently studying backend development with Java in the Oracle Education One program in partnership with Alura
+#### 
 
 <div>
      <img align="center" alt="Laros-Android" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
