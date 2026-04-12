@@ -9,7 +9,7 @@
 
 #### 
 
-<div>
+<!-- <div>
      <img align="center" alt="Laros-Android" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
      <img align="center" alt="Laros-Kotlin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
      <img align="center" alt="Laros-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
@@ -21,7 +21,7 @@
 
 <div> 
    <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbkllz&theme=transparent&layout=compact&hide_border=true" />
-</div> 
+</div>  -->
 </div>
 
 
